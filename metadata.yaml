@@ -1,0 +1,46 @@
+_repo: Bethink-Yourselves-_27189
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Chertkov, V. G. (Vladimir Grigorevich)
+    aliases:
+    - Chertkov, Vladimir
+    - Чертков, В. Г. (Владимир Григорьевич)
+    - Tchertkoff, V. (Vladimir)
+    birthdate: 1854
+    deathdate: 1936
+    gutenberg_agent_id: '32523'
+    url: http://www.gutenberg.org/2009/agents/32523
+    wikipedia: http://en.wikipedia.org/wiki/Vladimir_Chertkov
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Толстой, Лев Николаевич
+    - Tolstoy, Lev N.
+    - Tolstoi, Leo
+    - Tolstoï, Léon
+    - Tolstoy, Graf Leo
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_issued: '2008-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27189'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JX'
+- !lcsh 'Peace'
+- !lcsh 'Russo-Japanese War, 1904-1905'
+title: '"Bethink Yourselves!"'
+url: http://www.gutenberg.org/ebooks/27189
